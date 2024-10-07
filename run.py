@@ -105,7 +105,7 @@ def main():
     
     auth_response = authenticate(init_data)
     if auth_response:
-        print(Color.RED + f"Login Sukses" + Color.END)
+        print(Color.RED + f"Wit................................................." + Color.END)
         tasks = fetch_tasks(init_data, urls)
         
         for task_item in tasks:
