@@ -3,7 +3,9 @@ Support multi akun
 Fitur 
 1. Daily Checkin
 2. Claim Task
-3. Auto Play Game jika tikentmu banyak
+3. Auto Play Game jika tiketmu banyak
+
+
 How To Run 
 
 ```
